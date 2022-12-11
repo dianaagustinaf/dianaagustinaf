@@ -1,8 +1,8 @@
 
 <h1> Hi there 👋 I'm Diana </h1>
 <ul>
-  <li>🔭 I’m currently working as a junior software developer</li>
-  <li>🌱 And I’m learning Data Analysis and Viz at University of Birmingham</li>
+  <li>🔭 I'm currently working as a junior software developer</li>
+  <li>🌱 And recently got a certificate as a Data Analysis and Viz at University of Birmingham</li>
   <li>💬 I also have a background as a journalist</li>
   <li>⚡ Fun facts: I went around the world, I spent 10 days in complete silence and I have been a teacher in China </li>
 </ul> 
